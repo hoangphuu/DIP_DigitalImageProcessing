@@ -53,23 +53,4 @@ This repository contains six laboratory exercises on **Digital Image Processing 
 - **Affine Transformation**: Combining multiple transformations.
 - **Perspective Transformation**: Adjusting image perspective.
 
-## 🔧 Requirements
-- Python 3.x
-- OpenCV
-- Scikit-Image
-- NumPy
-- Matplotlib
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/hoangphuu/DIP_Labs.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run individual labs:
-   ```sh
-   python lab01.py  # Replace with lab02.py, lab03.py, etc.
-   ```
